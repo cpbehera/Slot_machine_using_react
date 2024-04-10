@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Slot_machine_using_react/static/css/main.c489358c.css",
+    "main.js": "/Slot_machine_using_react/static/js/main.49c6a9e1.js",
+    "index.html": "/Slot_machine_using_react/index.html",
+    "main.c489358c.css.map": "/Slot_machine_using_react/static/css/main.c489358c.css.map",
+    "main.49c6a9e1.js.map": "/Slot_machine_using_react/static/js/main.49c6a9e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c489358c.css",
+    "static/js/main.49c6a9e1.js"
+  ]
+}
